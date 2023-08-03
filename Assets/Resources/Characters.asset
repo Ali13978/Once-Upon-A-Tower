@@ -1,0 +1,143 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f7ef24aaca04431a6389f0573420b97, type: 3}
+  m_Name: "Characters"
+  m_EditorClassIdentifier: 
+  DefaultCharacter: "Ada"
+  SerializeList:
+  - Name: "Ada"
+    Scene: "Assets\x2fCharacters\x2fAda\x2fCharacterAda.unity"
+    Enabled: 1
+    MinPreviousCharacters: 0
+  - Name: "Pelona"
+    Scene: "Assets\x2fCharacters\x2fPelona\x2fCharacterPelona.unity"
+    Enabled: 1
+    MinPreviousCharacters: 0
+  - Name: "Wolf"
+    Scene: "Assets\x2fCharacters\x2fWolf\x2fCharacterWolf.unity"
+    Enabled: 1
+    MinPreviousCharacters: 0
+  - Name: "Dark"
+    Scene: "Assets\x2fCharacters\x2fDark\x2fCharacterDark.unity"
+    Enabled: 1
+    MinPreviousCharacters: 0
+  - Name: "Fire"
+    Scene: "Assets\x2fCharacters\x2fFire\x2fCharacterFire.unity"
+    Enabled: 1
+    MinPreviousCharacters: 0
+  - Name: "Wild"
+    Scene: "Assets\x2fCharacters\x2fWild\x2fCharacterWild.unity"
+    Enabled: 1
+    MinPreviousCharacters: 0
+  - Name: "Viking"
+    Scene: "Assets\x2fCharacters\x2fViking\x2fCharacterViking.unity"
+    Enabled: 1
+    MinPreviousCharacters: 0
+  - Name: "Mummy"
+    Scene: "Assets\x2fCharacters\x2fMummy\x2fCharacterMummy.unity"
+    Enabled: 1
+    MinPreviousCharacters: 0
+  - Name: "Skeleton"
+    Scene: "Assets\x2fCharacters\x2fSkeleton\x2fCharacterSkeleton.unity"
+    Enabled: 1
+    MinPreviousCharacters: 0
+  - Name: "Samurai"
+    Scene: "Assets\x2fCharacters\x2fSamurai\x2fCharacterSamurai.unity"
+    Enabled: 1
+    MinPreviousCharacters: 0
+  - Name: "Amazona"
+    Scene: "Assets\x2fCharacters\x2fAmazona\x2fCharacterAmazona.unity"
+    Enabled: 1
+    MinPreviousCharacters: 0
+  - Name: "Azteca"
+    Scene: "Assets\x2fCharacters\x2fAzteca\x2fCharacterAzteca.unity"
+    Enabled: 1
+    MinPreviousCharacters: 0
+  - Name: "Bear"
+    Scene: "Assets\x2fCharacters\x2fBear\x2fCharacterBear.unity"
+    Enabled: 0
+    MinPreviousCharacters: 0
+  - Name: "Draculina"
+    Scene: "Assets\x2fCharacters\x2fDraculina\x2fCharacterDraculina.unity"
+    Enabled: 1
+    MinPreviousCharacters: 0
+  - Name: "Elfa"
+    Scene: "Assets\x2fCharacters\x2fElfa\x2fCharacterElfa.unity"
+    Enabled: 1
+    MinPreviousCharacters: 0
+  - Name: "India"
+    Scene: "Assets\x2fCharacters\x2fIndia\x2fCharacterIndia.unity"
+    Enabled: 1
+    MinPreviousCharacters: 0
+  - Name: "Invisible"
+    Scene: "Assets\x2fCharacters\x2fInvisible\x2fCharacterInvisible.unity"
+    Enabled: 1
+    MinPreviousCharacters: 0
+  - Name: "Leia"
+    Scene: "Assets\x2fCharacters\x2fLeia\x2fCharacterLeia.unity"
+    Enabled: 1
+    MinPreviousCharacters: 0
+  - Name: "Daenerys"
+    Scene: "Assets\x2fCharacters\x2fDaenerys\x2fCharacterDaenerys.unity"
+    Enabled: 1
+    MinPreviousCharacters: 0
+  - Name: "Elizabeth"
+    Scene: "Assets\x2fCharacters\x2fElizabeth\x2fCharacterElizabeth.unity"
+    Enabled: 1
+    MinPreviousCharacters: 0
+  - Name: "Moana"
+    Scene: "Assets\x2fCharacters\x2fMoana\x2fCharacterMoana.unity"
+    Enabled: 1
+    MinPreviousCharacters: 0
+  - Name: "Nzinga"
+    Scene: "Assets\x2fCharacters\x2fNzinga\x2fCharacterNzinga.unity"
+    Enabled: 1
+    MinPreviousCharacters: 0
+  - Name: "Ghost"
+    Scene: "Assets\x2fCharacters\x2fGhost\x2fCharacterGhost.unity"
+    Enabled: 1
+    MinPreviousCharacters: 0
+  - Name: "GreekWarrior"
+    Scene: "Assets\x2fCharacters\x2fGreekWarrior\x2fCharacterGreekWarrior.unity"
+    Enabled: 1
+    MinPreviousCharacters: 0
+  - Name: "Hellwoman"
+    Scene: "Assets\x2fCharacters\x2fHellwoman\x2fCharacterHellwoman.unity"
+    Enabled: 1
+    MinPreviousCharacters: 0
+  - Name: "IronMask"
+    Scene: "Assets\x2fCharacters\x2fIronMask\x2fCharacterIronMask.unity"
+    Enabled: 1
+    MinPreviousCharacters: 0
+  - Name: "Robot"
+    Scene: "Assets\x2fCharacters\x2fRobot\x2fCharacterRobot.unity"
+    Enabled: 1
+    MinPreviousCharacters: 0
+  - Name: "Zombie"
+    Scene: "Assets\x2fCharacters\x2fZombie\x2fCharacterZombie.unity"
+    Enabled: 1
+    MinPreviousCharacters: 0
+  - Name: "Gaucha"
+    Scene: "Assets\x2fCharacters\x2fGaucha\x2fCharacterGaucha.unity"
+    Enabled: 1
+    MinPreviousCharacters: 0
+  - Name: "Pirate"
+    Scene: "Assets\x2fCharacters\x2fPirate\x2fCharacterPirate.unity"
+    Enabled: 1
+    MinPreviousCharacters: 0
+  - Name: "Scarecrow"
+    Scene: "Assets\x2fCharacters\x2fScarecrow\x2fCharacterScarecrow.unity"
+    Enabled: 1
+    MinPreviousCharacters: 0
+  - Name: "PrincessChicken"
+    Scene: "Assets\x2fCharacters\x2fPrincessChicken\x2fCharacterPrincessChicken.unity"
+    Enabled: 1
+    MinPreviousCharacters: 0

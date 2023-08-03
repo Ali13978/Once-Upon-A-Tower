@@ -1,0 +1,24 @@
+{
+    "name": "io.liquiid.eossharp",
+    "version": "1.0.0",
+    "displayName": "EosSharp",
+    "description": "C# client library for EOSIO blockchains. The library is based on https://github.com/EOSIO/eosjs and MIT licensed.",
+    "unity": "2019.1",
+    "documentationUrl": "https://github.com/liquiidio/EosSharp-Private",
+    "changelogUrl": "https://github.com/liquiidio/EosSharp-Private",
+    "licensesUrl": "https://github.com/liquiidio/EosSharp-Private",
+    "dependencies": {
+      "com.unity.nuget.newtonsoft-json": "3.0.0"
+    },
+    "author": {
+      "name": "Corvin Meyer auf der Heide",
+      "email": "corvin@liquiid.io",
+      "url": "https://www.liquiid.io"
+    },
+    "keywords": [
+      "eossharp",
+      "eos-sharp",
+      "EOSIO"
+    ]
+  }
+  

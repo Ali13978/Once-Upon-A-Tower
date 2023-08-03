@@ -1,0 +1,19 @@
+using UnityEngine;
+
+namespace Flux
+{
+	[FEvent("Renderer/Set Texture", typeof(FRendererTrack))]
+	public class FRendererTextureEvent : FRendererEvent
+	{
+		[SerializeField]
+		private Texture _texture;
+
+		protected override void ApplyProperty(float t)
+		{
+			if (_texture != null)
+			{
+				_matPropertyBlock.SetTexture(base.PropertyName, _texture);
+			}
+		}
+	}
+}

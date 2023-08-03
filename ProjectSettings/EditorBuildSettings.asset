@@ -1,0 +1,376 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Game.unity
+    guid: 4c2d6c811e7bd524f9b0dbac798bf334
+  - enabled: 1
+    path: Assets/Scenes/Dragon.unity
+    guid: 882c49524605cdd42ad028ce1ce282b6
+  - enabled: 1
+    path: Assets/Scenes/DragonHalloween.unity
+    guid: 31cadabd446ba0f4380df05f0cc756c5
+  - enabled: 1
+    path: Assets/Scenes/Sections/Tutorial.unity
+    guid: fd2f34c123220cd4391e131710fee5e6
+  - enabled: 1
+    path: Assets/Scenes/Sections/W5Blocks1.unity
+    guid: 7fae9d623d05b764cbc6dca109213b0e
+  - enabled: 1
+    path: Assets/Scenes/Sections/W5BlocksNarrow1.unity
+    guid: ea60369f3b7980f4289f01bbfe48960e
+  - enabled: 1
+    path: Assets/Scenes/Sections/W5FireballThrower.unity
+    guid: 1631e4c242b7b6641af948c69e60b04a
+  - enabled: 1
+    path: Assets/Scenes/Sections/W5FireballThrowerWarriorPig1.unity
+    guid: 67b403dfc0848054792bb3a6dae6f67b
+  - enabled: 1
+    path: Assets/Scenes/Sections/W5WarriorPig1.unity
+    guid: fc9ebaa38bed2a64b9cabdb4cf0304d8
+  - enabled: 1
+    path: Assets/Scenes/Sections/W7BabyDragon1.unity
+    guid: f722bb1ddf54e9e4f98246defca56dec
+  - enabled: 1
+    path: Assets/Scenes/Sections/W7Blocks1.unity
+    guid: a04a0762f3d3d3244b9f0ce50dcdeeb9
+  - enabled: 1
+    path: Assets/Scenes/Sections/W7Blocks2.unity
+    guid: 69f0b44aa99f34745aec7e5b9318a27e
+  - enabled: 1
+    path: Assets/Scenes/Sections/W7BlocksNarrow1.unity
+    guid: 63dd2b07ebfe881438985927290b4a99
+  - enabled: 1
+    path: Assets/Scenes/Sections/W7BlocksNarrow2.unity
+    guid: 0c9bc29b66f2eae40b33723f9113a34e
+  - enabled: 1
+    path: Assets/Scenes/Sections/W7Crab1.unity
+    guid: c6b4b29e3788ab845b962404eb98de0d
+  - enabled: 1
+    path: Assets/Scenes/Sections/W7CrackSpike1.unity
+    guid: 4f0972f2b0177964cb0fc5f39d74829c
+  - enabled: 1
+    path: Assets/Scenes/Sections/W7CrackSpike2.unity
+    guid: 406ff9224179dd64ab4f8f23ad9c20dc
+  - enabled: 1
+    path: Assets/Scenes/Sections/W7CrackSpike3.unity
+    guid: 062b8a7d962d5ad41910bb4267e5b456
+  - enabled: 1
+    path: Assets/Scenes/Sections/W7FireballThrower1.unity
+    guid: d0411d047bf41ee40b1bdf0eed9ce1c1
+  - enabled: 1
+    path: Assets/Scenes/Sections/W7FireballThrower2.unity
+    guid: c0b9bd2db2eca45498e33337956f30a9
+  - enabled: 1
+    path: Assets/Scenes/Sections/W7FireballThrowerSpike1.unity
+    guid: 5dd8b668a873c8b48b4613f75d4ada0f
+  - enabled: 1
+    path: Assets/Scenes/Sections/W7Spider1.unity
+    guid: f769818e86b7d8b428796d2187a49486
+  - enabled: 1
+    path: Assets/Scenes/Sections/W7Thwomp.unity
+    guid: ec90250008dac8843a39a8bc1e1c4877
+  - enabled: 1
+    path: Assets/Scenes/Sections/W7Thwomp1.unity
+    guid: 9e9bf79b3e202e440bc6f3c5d25f0920
+  - enabled: 1
+    path: Assets/Scenes/Sections/W7ThwompDown.unity
+    guid: 6a9828033829d6b4ba9f60dd7ba9c166
+  - enabled: 1
+    path: Assets/Scenes/Sections/W7WarriorPig1.unity
+    guid: 4a03ada7c5b5bdd47a50eaf08b10b311
+  - enabled: 1
+    path: Assets/Scenes/Sections/W7WildPig1.unity
+    guid: 98c1904a66e815c43ae53d35dccd1da3
+  - enabled: 1
+    path: Assets/Scenes/Sections/W7WildPig2.unity
+    guid: 31ab48466e7a07b44b7f8b285d3b73ee
+  - enabled: 1
+    path: Assets/Scenes/Sections/W9BabyDragon1.unity
+    guid: edbdd09f92e81554bbea654010d26f1a
+  - enabled: 1
+    path: Assets/Scenes/Sections/W9Blocks1.unity
+    guid: ae2144fbd6732db4f8871b683855725b
+  - enabled: 1
+    path: Assets/Scenes/Sections/W9BlocksNarrow1.unity
+    guid: 1a25d0eda9dd86647bd16e1e23a88180
+  - enabled: 1
+    path: Assets/Scenes/Sections/W9BlocksNarrow2.unity
+    guid: 967b75ad97da2954ea0c09da4e443bc2
+  - enabled: 1
+    path: Assets/Scenes/Sections/W9Crab1.unity
+    guid: 0eec9606060f54e4cbe36bf2a548c412
+  - enabled: 1
+    path: Assets/Scenes/Sections/W9CrackSpike1.unity
+    guid: f27548ab7c7f5f94588a267bd42e431b
+  - enabled: 1
+    path: Assets/Scenes/Sections/W9FireballThrower1.unity
+    guid: 277f36b40a4ca3e488b4922fff840b22
+  - enabled: 1
+    path: Assets/Scenes/Sections/W9FireballThrower2.unity
+    guid: 1bcf02ffa93c1d94ca253770f59b3b69
+  - enabled: 1
+    path: Assets/Scenes/Sections/W9MultiEnemy.unity
+    guid: 4096cd4a58a5a7d48998b60ce7454eb2
+  - enabled: 1
+    path: Assets/Scenes/Sections/W9Spider1.unity
+    guid: 50d696fc17119a448a61f7a9f79351fd
+  - enabled: 1
+    path: Assets/Scenes/Sections/W9Thwomp.unity
+    guid: 9270cbe070d8e204f8ec0d473df92dab
+  - enabled: 1
+    path: Assets/Scenes/Sections/W9Thwomp1.unity
+    guid: c077a916afc5a9846bc19526a85da880
+  - enabled: 1
+    path: Assets/Scenes/Sections/W9ThwompDown.unity
+    guid: 1616ec1cbfed243458780d2c54c9cb88
+  - enabled: 1
+    path: Assets/Scenes/Sections/W9WarriorPig1.unity
+    guid: 1a1ad10ee293a6e498c80203887588cc
+  - enabled: 1
+    path: Assets/Scenes/Sections/W9WildPig1.unity
+    guid: 5617c2e397bd03b47949e28b9172216b
+  - enabled: 1
+    path: Assets/Scenes/Connections/End.unity
+    guid: 973c857d7f837f44fae1a4daab9b8b60
+  - enabled: 1
+    path: Assets/Scenes/Connections/EndOld.unity
+    guid: 15cfb6f6e69a28b449722e934274ddc3
+  - enabled: 1
+    path: Assets/Scenes/Connections/Start.unity
+    guid: 93d95e2259fbc3f4abe64c2d9f277ff7
+  - enabled: 1
+    path: Assets/Scenes/Connections/Transition10.unity
+    guid: 17d75c48589fba0469ad50e31dcff254
+  - enabled: 1
+    path: Assets/Scenes/Connections/Transition11.unity
+    guid: 024d045875a837142bf334b2abaafdbe
+  - enabled: 1
+    path: Assets/Scenes/Connections/Transition12.unity
+    guid: d451dd4425855384f9fc75aef4131065
+  - enabled: 1
+    path: Assets/Scenes/Connections/Transition13.unity
+    guid: f7a6ad09b69a6ba4d9bd841f77385bf2
+  - enabled: 1
+    path: Assets/Scenes/Connections/Transition2.unity
+    guid: 711721c0312c57e43acdbb1f8540c323
+  - enabled: 1
+    path: Assets/Scenes/Connections/Transition3.unity
+    guid: 19dd9cdb12c72d647a41e6d30ff46ee5
+  - enabled: 1
+    path: Assets/Scenes/Connections/Transition4.unity
+    guid: 9db586fd1c71f514f84d83da909463dd
+  - enabled: 1
+    path: Assets/Scenes/Connections/Transition5.unity
+    guid: af9f43513feed5a43bc689d2ddb15c8a
+  - enabled: 1
+    path: Assets/Scenes/Connections/Transition6.unity
+    guid: 5d1f0106b0fabb54f861b383b6cc177e
+  - enabled: 1
+    path: Assets/Scenes/Connections/Transition7.unity
+    guid: a1dc4b3c99ae4f044a1feb9be51d345f
+  - enabled: 1
+    path: Assets/Scenes/Connections/Transition8.unity
+    guid: 1c9f90bbbf0fc4347b21f8a392faf21c
+  - enabled: 1
+    path: Assets/Scenes/Connections/Transition9.unity
+    guid: 10db885dbf5932c47baa640139e4fec4
+  - enabled: 1
+    path: Assets/Scenes/GuiViews/BuySaveMePackView.unity
+    guid: 3ce429760103bf04cb4e6c1a3304ce97
+  - enabled: 1
+    path: Assets/Scenes/GuiViews/CharacterBuy.unity
+    guid: 8de0833ff81a03e49915a2b2170a4419
+  - enabled: 1
+    path: Assets/Scenes/GuiViews/CharacterDeal.unity
+    guid: 8ba274623b909af46a85b27f6ccae18d
+  - enabled: 1
+    path: Assets/Scenes/GuiViews/CharacterDealMessage.unity
+    guid: ae036cf11b02ad5459a9785f1f1c254a
+  - enabled: 1
+    path: Assets/Scenes/GuiViews/CharacterFree.unity
+    guid: 457496f50d80a7b4286998438c1d1af6
+  - enabled: 1
+    path: Assets/Scenes/GuiViews/CharacterGet.unity
+    guid: a64bc41c45634aa4186e83f96987a001
+  - enabled: 1
+    path: Assets/Scenes/GuiViews/CharacterSelect.unity
+    guid: dda9b7898612cdd4fa456947db33240a
+  - enabled: 1
+    path: Assets/Scenes/GuiViews/ComboView.unity
+    guid: 45f2769c9c78b264ab4230e2b8136c27
+  - enabled: 1
+    path: Assets/Scenes/GuiViews/ConfirmExit.unity
+    guid: 9a93c65ddde8c194e8af5bfbf0593bf2
+  - enabled: 1
+    path: Assets/Scenes/GuiViews/ConfirmReset.unity
+    guid: e5d480f58a86afa46a358bc83aaf5bff
+  - enabled: 1
+    path: Assets/Scenes/GuiViews/CutsceneFrame.unity
+    guid: b356102a7aafc364c872f1ac1bf3eba4
+  - enabled: 1
+    path: Assets/Scenes/GuiViews/FPSView.unity
+    guid: f36ceb2cd7f9eb74d9283b23575ee192
+  - enabled: 1
+    path: Assets/Scenes/GuiViews/GameCenterDisabled.unity
+    guid: 30bffc55ba7657c43a41e3efc55513f5
+  - enabled: 1
+    path: Assets/Scenes/GuiViews/InGameMissionCompleteView.unity
+    guid: 006589b50755cb347ab3e174709b83a8
+  - enabled: 1
+    path: Assets/Scenes/GuiViews/InGameStatsView.unity
+    guid: 8c31f6da1c31f4f4ebd355d4d9c2b1d8
+  - enabled: 1
+    path: Assets/Scenes/GuiViews/InGameStoreItemView.unity
+    guid: d3ac8e9b0724b1f4993753c0da577413
+  - enabled: 1
+    path: Assets/Scenes/GuiViews/ItemGet.unity
+    guid: 3f442bd120660954abeda659021260da
+  - enabled: 1
+    path: Assets/Scenes/GuiViews/ItemsView.unity
+    guid: 48050bc3e6f077846be64f68f7e5d58e
+  - enabled: 1
+    path: Assets/Scenes/GuiViews/LoadingView.unity
+    guid: 7295be7bfc968ae4c84a67a70a815467
+  - enabled: 1
+    path: Assets/Scenes/GuiViews/LoseMissionsView.unity
+    guid: 36ef35ff8bb0f814da31e4db5910bc00
+  - enabled: 1
+    path: Assets/Scenes/GuiViews/LoseView.unity
+    guid: a530a8aaa3543d343a249d030e554b7d
+  - enabled: 1
+    path: Assets/Scenes/GuiViews/MissionTextTemplate.unity
+    guid: 0fbce639d6092a145887aebfd3f8e19f
+  - enabled: 1
+    path: Assets/Scenes/GuiViews/MissionsView.unity
+    guid: bf085ccaf128c1f4facad1feada72141
+  - enabled: 1
+    path: Assets/Scenes/GuiViews/PauseButtonView.unity
+    guid: 3fa7201b46ee21b4da713777d303460f
+  - enabled: 1
+    path: Assets/Scenes/GuiViews/PauseView.unity
+    guid: a1f2511998728964bb2fc023980563b1
+  - enabled: 1
+    path: Assets/Scenes/GuiViews/RateUs.unity
+    guid: 68f63bdddc03091418f57e46e46c558c
+  - enabled: 1
+    path: Assets/Scenes/GuiViews/SaveMeView.unity
+    guid: cd17b991cfd0b074f90b0c66fcdc66f3
+  - enabled: 1
+    path: Assets/Scenes/GuiViews/SettingsView.unity
+    guid: 5bc1a66a5261d0c4cb378207d921be80
+  - enabled: 1
+    path: Assets/Scenes/GuiViews/StartView.unity
+    guid: 3d4b1666470a1f54e90bf80a234c4a47
+  - enabled: 1
+    path: Assets/Scenes/GuiViews/StoreProcessing.unity
+    guid: 29fca42b82071b34b8b8779ff047d03b
+  - enabled: 1
+    path: Assets/Scenes/GuiViews/ThankYou.unity
+    guid: ce08865a51b59ae4888d354bbb2b481b
+  - enabled: 1
+    path: Assets/Scenes/GuiViews/TutorialView.unity
+    guid: 0f245052a5b73484da2d0ad7554e45ec
+  - enabled: 1
+    path: Assets/Scenes/GuiViews/WheelView.unity
+    guid: 8cec76502d0b6de489d164a4107ebb6b
+  - enabled: 1
+    path: Assets/Characters/Ada/CharacterAda.unity
+    guid: 751522681e0c9364ab61a9cb9e7596a6
+  - enabled: 1
+    path: Assets/Characters/Amazona/CharacterAmazona.unity
+    guid: afbcee14c9516cd42ad75d26425dae43
+  - enabled: 1
+    path: Assets/Characters/Azteca/CharacterAzteca.unity
+    guid: 1b790663eb064964c91b34e33db36785
+  - enabled: 1
+    path: Assets/Characters/Bear/CharacterBear.unity
+    guid: 1d7f42901b40820478826035f1fc619f
+  - enabled: 1
+    path: Assets/Characters/Daenerys/CharacterDaenerys.unity
+    guid: 83d99d58234491c4db259b224da26320
+  - enabled: 1
+    path: Assets/Characters/Dark/CharacterDark.unity
+    guid: d1ebd47351c5d204aa629e1732390233
+  - enabled: 1
+    path: Assets/Characters/Draculina/CharacterDraculina.unity
+    guid: 76cbba2f59625b24c8c1c1c2315e9dce
+  - enabled: 1
+    path: Assets/Characters/Elfa/CharacterElfa.unity
+    guid: 24bc6002c04bf1940a4da68e107c0ab2
+  - enabled: 1
+    path: Assets/Characters/Elizabeth/CharacterElizabeth.unity
+    guid: 0b218ee3408a961439b863ea01e683d5
+  - enabled: 1
+    path: Assets/Characters/Fire/CharacterFire.unity
+    guid: 355ddc5c178045745ac86c602c35c92a
+  - enabled: 1
+    path: Assets/Characters/Gaucha/CharacterGaucha.unity
+    guid: c41c5f953a32cf94d8d33249019960a4
+  - enabled: 1
+    path: Assets/Characters/Ghost/CharacterGhost.unity
+    guid: ea08430adbe538a4e948f50ffe5fee56
+  - enabled: 1
+    path: Assets/Characters/GreekWarrior/CharacterGreekWarrior.unity
+    guid: 279d46b120ce879409172a41cbb27a19
+  - enabled: 1
+    path: Assets/Characters/Hellwoman/CharacterHellwoman.unity
+    guid: e38b20e5b946b894ea52c57791ce64c2
+  - enabled: 1
+    path: Assets/Characters/India/CharacterIndia.unity
+    guid: 4327823b8e482274b97e753c2adb81fa
+  - enabled: 1
+    path: Assets/Characters/Invisible/CharacterInvisible.unity
+    guid: 4e052f3f7fb3eaa4bb6a093948c66628
+  - enabled: 1
+    path: Assets/Characters/IronMask/CharacterIronMask.unity
+    guid: 558997342a4f789479468bc83f67f504
+  - enabled: 1
+    path: Assets/Characters/Leia/CharacterLeia.unity
+    guid: 237a1cb58bf57b442a811910dd4a66a2
+  - enabled: 1
+    path: Assets/Characters/Moana/CharacterMoana.unity
+    guid: 52f174c16ad7a8f48b9a165ae69e90c6
+  - enabled: 1
+    path: Assets/Characters/Mummy/CharacterMummy.unity
+    guid: 558e4523c6176d442b16e2850603ff97
+  - enabled: 1
+    path: Assets/Characters/Nzinga/CharacterNzinga.unity
+    guid: 6664bc8a1f5f7c6458a1f56c48f80850
+  - enabled: 1
+    path: Assets/Characters/Pelona/CharacterPelona.unity
+    guid: 9452510808b4bec44830ed20f44aa98c
+  - enabled: 1
+    path: Assets/Characters/Pirate/CharacterPirate.unity
+    guid: 5468ed741d20f2644966ba5bff19890a
+  - enabled: 1
+    path: Assets/Characters/PrincessChicken/CharacterPrincessChicken.unity
+    guid: 2932b51e24620454db2b150257146aee
+  - enabled: 1
+    path: Assets/Characters/Robot/CharacterRobot.unity
+    guid: 34027c6243bbb5a4ebfc9adcbdfd4618
+  - enabled: 1
+    path: Assets/Characters/Samurai/CharacterSamurai.unity
+    guid: 40da00ccc1f7d764e9a868af7c9606a1
+  - enabled: 1
+    path: Assets/Characters/Scarecrow/CharacterScarecrow.unity
+    guid: d7f9dd7730d0e6e4c8efd4c1c953ce0f
+  - enabled: 1
+    path: Assets/Characters/Skeleton/CharacterSkeleton.unity
+    guid: 77ee81b13086017459eec36f0fd9e7ad
+  - enabled: 1
+    path: Assets/Characters/Viking/CharacterViking.unity
+    guid: da7ea81d77531764ea249334724a7038
+  - enabled: 1
+    path: Assets/Characters/Wild/CharacterWild.unity
+    guid: 8de8150b75adc804aae2975de90f9a1b
+  - enabled: 1
+    path: Assets/Characters/Wolf/CharacterWolf.unity
+    guid: 0ee123ade22900544ae7db7b53159cee
+  - enabled: 1
+    path: Assets/Characters/Zombie/CharacterZombie.unity
+    guid: 971b2367d39b72a4087a02ee6aff7e78

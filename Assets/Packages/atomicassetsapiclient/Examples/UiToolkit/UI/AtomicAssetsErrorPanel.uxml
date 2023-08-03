@@ -1,0 +1,20 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/Packages/atomicassetsapiclient/Examples/UiToolkit/stylesheet/AtomicAssetsUSSFile.uss?fileID=7433441132597879392&amp;guid=5885f7e6a47651d438f05a860890d070&amp;type=3#AtomicAssetsUSSFile" />
+    <ui:VisualElement name="screen" style="flex-grow: 1; flex-direction: column; justify-content: flex-start; align-items: stretch; flex-wrap: no-wrap;">
+        <ui:VisualElement style="height: 100%; align-items: center; justify-content: center; width: 100%;">
+            <ui:VisualElement style="background-image: none; width: 60%; height: 60%; -unity-background-image-tint-color: rgba(255, 0, 0, 0); align-items: center; justify-content: center; background-color: rgb(0, 18, 53); border-top-left-radius: 6px; border-bottom-left-radius: 6px; border-top-right-radius: 6px; border-bottom-right-radius: 6px; border-left-color: rgb(255, 0, 0); border-right-color: rgb(255, 0, 0); border-top-color: rgb(255, 0, 0); border-bottom-color: rgb(255, 0, 0); border-left-width: 1px; border-right-width: 1px; border-top-width: 1px; border-bottom-width: 1px;">
+                <ui:VisualElement style="position: absolute; width: 100%; height: 100%; background-image: none; -unity-background-image-tint-color: rgb(9, 46, 63); border-left-width: 1px; border-right-width: 1px; border-top-width: 1px; border-bottom-width: 1px;" />
+                <ui:VisualElement name="error-label-container" style="align-items: center; justify-content: center; flex-direction: column; height: 15%; width: 100%;">
+                    <ui:Label display-tooltip-when-elided="True" name="error-text-short" text="Test" class="header3" style="color: rgb(255, 0, 0); -unity-font-style: bold; font-size: 18px; white-space: normal;" />
+                </ui:VisualElement>
+                <ui:VisualElement name="child-content-container" />
+                <ui:VisualElement name="resources-container" style="height: 60%; width: 80%; align-items: center; justify-content: center;">
+                    <ui:Label text="ErrorText&#10;" display-tooltip-when-elided="true" name="error-text-long" class="value-label description-label" style="align-items: center; -unity-text-align: middle-center; white-space: normal; width: 70%; height: auto; font-size: 18px; -unity-font-style: bold; color: rgb(255, 255, 255);" />
+                </ui:VisualElement>
+                <ui:VisualElement name="footer" style="width: 100%; align-items: center; flex-direction: row; height: auto; margin-left: 10px; justify-content: center;">
+                    <ui:Button text="Ok" display-tooltip-when-elided="true" name="ok-button" class="select-button" style="margin-top: 1px; padding-left: 0; padding-right: 0; padding-top: 0; padding-bottom: 0; width: 100px;" />
+                </ui:VisualElement>
+            </ui:VisualElement>
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>

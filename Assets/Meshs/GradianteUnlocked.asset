@@ -1,0 +1,140 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!43 &4300000
+Mesh:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: "GradianteUnlocked"
+  serializedVersion: 8
+  m_SubMeshes:
+  - serializedVersion: 2
+    firstByte: 0
+    indexCount: 18
+    topology: 0
+    firstVertex: 0
+    vertexCount: 8
+    localAABB:
+      m_Center: {x: 4.470348E-08, y: 0.02309918, z: 0.04624228}
+      m_Extent: {x: 0.2591987, y: 1.955777E-08, z: 0.4602806}
+  m_Shapes:
+    vertices:
+    shapes:
+    channels:
+    fullWeights:
+  m_MeshCompression: 2
+  m_StreamCompression: 0
+  m_IsReadable: 1
+  m_KeepVertices: 1
+  m_KeepIndices: 1
+  m_IndexFormat: 0
+  m_IndexBuffer: 
+  m_Skin: []
+  m_BindPose:
+  m_VertexData:
+    m_CurrentChannels: 0
+    m_VertexCount: 0
+    m_Channels:
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    m_DataSize: 476
+    _typelessdata: 110000004772616469616E7465556E6C6F636B656400000001000000000000001200000000000000000000000000000008000000000040337C3ABD3C8C683D3DB2B5843E0000A832E6A9EB3E000000000000000000000000000000000000000000000000000000000201010100000000000000000000000000000000000000000800000000000000000000000000000000000000000000000000000000000000000000000000000018000000E6A96B3FD5FCD3BE300000000F2B9079FFFF0F2B90790000853790790000284B9079FFFFEE5B90790000F0A89079FFFF38BB9079000038BB9079FFFF100000001000000007F8A43E1F16AA3E1200000029FFA7043012C0C8FF4800D4F8AF018086FF000009000000100000000000803F000080BF10000000FF00FF00FF00FF00FF00FF00FF00FF0008000000100000000000803F000080BF1000000000FF00FF00FF00FF00FF00FF00FF00FF0800000000000000000000000000000008000000000000000000000010000000000000000000000020000000000000000000803F0000000000000000000000000000000000000000120000000700000088A04D1C5BBA3E000300000005000000000040337C3ABD3C8C683D3DB2B5843E0000A832E6A9EB3E000000000000000000000000
+  m_CompressedMesh:
+    m_Vertices:
+      m_NumItems: 24
+      m_Range: 0.9205612
+      m_Start: -0.4140383
+      m_Data: 0F2B9079FFFF0F2B90790000853790790000284B9079FFFFEE5B90790000F0A89079FFFF38BB9079000038BB9079FFFF
+      m_BitSize: 16
+    m_UV:
+      m_NumItems: 16
+      m_Range: 0.3222048
+      m_Start: 0.3322
+      m_Data: 29FFA7043012C0C8FF4800D4F8AF018086FF
+      m_BitSize: 9
+    m_Normals:
+      m_NumItems: 16
+      m_Range: 1
+      m_Start: -1
+      m_Data: FF00FF00FF00FF00FF00FF00FF00FF00
+      m_BitSize: 8
+    m_BindPoses:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_Tangents:
+      m_NumItems: 16
+      m_Range: 1
+      m_Start: -1
+      m_Data: 00FF00FF00FF00FF00FF00FF00FF00FF
+      m_BitSize: 8
+    m_Weights:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_NormalSigns:
+      m_NumItems: 8
+      m_Data: 
+      m_BitSize: 0
+    m_TangentSigns:
+      m_NumItems: 16
+      m_Data: 
+      m_BitSize: 0
+    m_FloatColors:
+      m_NumItems: 32
+      m_Range: 0
+      m_Start: 1
+      m_Data: 
+      m_BitSize: 0
+    m_BoneIndices:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_Triangles:
+      m_NumItems: 18
+      m_Data: 88A04D1C5BBA3E
+      m_BitSize: 3
+    m_Colors:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_UVInfo: 5
+  m_LocalAABB:
+    m_Center: {x: 4.470348E-08, y: 0.02309918, z: 0.04624228}
+    m_Extent: {x: 0.2591987, y: 1.955777E-08, z: 0.4602806}
+  m_MeshUsageFlags: 0
+  m_BakedConvexCollisionMesh: 
+  m_BakedTriangleCollisionMesh: 
+  m_MeshOptimized: 0

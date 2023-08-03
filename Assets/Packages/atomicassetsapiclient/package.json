@@ -1,0 +1,30 @@
+{
+  "name": "io.liquiid.atomicassets",
+  "version": "1.0.1",
+  "displayName": "Atomic Assets ApiClient",
+  "description": ".NET and Unity3D-compatible (Desktop, Mobile, WebGL) ApiClient for AtomicAssets",
+  "unity": "2019.1",
+  "documentationUrl": "https://github.com/liquiidio/AtomicAssetsApiClient-Private",
+  "changelogUrl": "https://github.com/liquiidio/AtomicAssetsApiClient-Private",
+  "licensesUrl": "https://github.com/liquiidio/AtomicAssetsApiClient-Private",
+  "dependencies": {
+    "com.unity.nuget.newtonsoft-json": "3.0.0"
+  },
+  "author": {
+    "name": "Corvin Meyer auf der Heide",
+    "email": "corvin@liquiid.io",
+    "url": "https://www.liquiid.io"
+  },
+  "samples": [
+   {
+     "displayName": "UiToolkit",
+     "description": "Usage example using UiToolkit",
+     "path": "Samples~/UiToolkit"
+   }
+  ],
+  "keywords": [
+    "atomic-assets",
+    "atomicassets",
+    "atomicassetsapiclient"
+  ]
+}

@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2f32e55cd252c4c64b2126193c21b37d, type: 3}
+  m_Name: "Sprites"
+  m_EditorClassIdentifier: 
+  hashCode: 620236318
+  material: {fileID: 2100000, guid: 27567ad699294a3c8a0bee3fdd0efcf4, type: 2}
+  materialHashCode: 0
+  spriteSheet: {fileID: 2800000, guid: eb4b4740f77f4ec3b399e9f1da2e952e, type: 3}
+  spriteInfoList:
+  - id: 0
+    x: 0
+    y: 0
+    width: 128
+    height: 128
+    xOffset: 12
+    yOffset: 105.05
+    xAdvance: 140
+    scale: 1
+    name: "heart"
+    hashCode: 120098698
+    pivot: {x: -64, y: 64}
+    sprite: {fileID: 21300000, guid: eb4b4740f77f4ec3b399e9f1da2e952e, type: 3}

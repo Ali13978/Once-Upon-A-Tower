@@ -1,0 +1,29 @@
+{
+  "name": "io.liquiid.hyperion",
+  "version": "1.0.0",
+  "displayName": "Hyperion ApiClient",
+  "description": ".NET and Unity3D-compatible (Desktop, Mobile, WebGL) ApiClient for Hyperion History APIs",
+  "unity": "2019.1",
+  "documentationUrl": "https://github.com/liquiidio/HyperionApiClient",
+  "changelogUrl": "https://github.com/liquiidio/HyperionApiClient",
+  "licensesUrl": "https://github.com/liquiidio/HyperionApiClient",
+  "dependencies": {
+    "com.unity.nuget.newtonsoft-json": "3.0.0"
+  },
+  "author": {
+    "name": "Corvin Meyer auf der Heide",
+    "email": "corvin@liquiid.io",
+    "url": "https://www.liquiid.io"
+  },
+  "samples": [
+    {
+      "displayName": "UiToolkit",
+      "description": "Usage example using UiToolkit",
+      "path": "Samples~/UiToolkit"
+    }
+  ],
+  "keywords": [
+    "hyperion",
+    "hyperiondapiclient"
+  ]
+}

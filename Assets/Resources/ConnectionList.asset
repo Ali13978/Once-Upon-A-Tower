@@ -1,0 +1,120 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e3cb2fd03ee4c69620490463692945b5, type: 3}
+  m_Name: "ConnectionList"
+  m_EditorClassIdentifier: 
+  SectionInfos:
+  - BuildIndex: 43
+    Name: "End"
+    Path: "Assets\x2fScenes\x2fConnections\x2fEnd.unity"
+    Width: -1
+    Weight: 1
+    Tags:
+    - "End"
+  - BuildIndex: 44
+    Name: "EndOld"
+    Path: "Assets\x2fScenes\x2fConnections\x2fEndOld.unity"
+    Width: -1
+    Weight: 1
+    Tags:
+    - "End"
+    - "Old"
+  - BuildIndex: 45
+    Name: "Start"
+    Path: "Assets\x2fScenes\x2fConnections\x2fStart.unity"
+    Width: -1
+    Weight: 1
+    Tags:
+    - "Start"
+  - BuildIndex: 46
+    Name: "Transition10"
+    Path: "Assets\x2fScenes\x2fConnections\x2fTransition10.unity"
+    Width: -1
+    Weight: 1
+    Tags:
+    - "Transition"
+  - BuildIndex: 47
+    Name: "Transition11"
+    Path: "Assets\x2fScenes\x2fConnections\x2fTransition11.unity"
+    Width: -1
+    Weight: 1
+    Tags:
+    - "Transition"
+  - BuildIndex: 48
+    Name: "Transition12"
+    Path: "Assets\x2fScenes\x2fConnections\x2fTransition12.unity"
+    Width: -1
+    Weight: 1
+    Tags:
+    - "Transition"
+  - BuildIndex: 49
+    Name: "Transition13"
+    Path: "Assets\x2fScenes\x2fConnections\x2fTransition13.unity"
+    Width: -1
+    Weight: 1
+    Tags:
+    - "Transition"
+  - BuildIndex: 50
+    Name: "Transition2"
+    Path: "Assets\x2fScenes\x2fConnections\x2fTransition2.unity"
+    Width: -1
+    Weight: 1
+    Tags:
+    - "Transition"
+  - BuildIndex: 51
+    Name: "Transition3"
+    Path: "Assets\x2fScenes\x2fConnections\x2fTransition3.unity"
+    Width: -1
+    Weight: 1
+    Tags:
+    - "Transition"
+  - BuildIndex: 52
+    Name: "Transition4"
+    Path: "Assets\x2fScenes\x2fConnections\x2fTransition4.unity"
+    Width: -1
+    Weight: 1
+    Tags:
+    - "Transition"
+  - BuildIndex: 53
+    Name: "Transition5"
+    Path: "Assets\x2fScenes\x2fConnections\x2fTransition5.unity"
+    Width: -1
+    Weight: 1
+    Tags:
+    - "Transition"
+  - BuildIndex: 54
+    Name: "Transition6"
+    Path: "Assets\x2fScenes\x2fConnections\x2fTransition6.unity"
+    Width: -1
+    Weight: 1
+    Tags:
+    - "Transition"
+  - BuildIndex: 55
+    Name: "Transition7"
+    Path: "Assets\x2fScenes\x2fConnections\x2fTransition7.unity"
+    Width: -1
+    Weight: 1
+    Tags:
+    - "Transition"
+  - BuildIndex: 56
+    Name: "Transition8"
+    Path: "Assets\x2fScenes\x2fConnections\x2fTransition8.unity"
+    Width: -1
+    Weight: 1
+    Tags:
+    - "Transition"
+  - BuildIndex: 57
+    Name: "Transition9"
+    Path: "Assets\x2fScenes\x2fConnections\x2fTransition9.unity"
+    Width: -1
+    Weight: 1
+    Tags:
+    - "Transition"

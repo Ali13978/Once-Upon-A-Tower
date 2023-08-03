@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 81bfe92b6471ab330c935222d77a9eec, type: 3}
+  m_Name: "GuiViewList"
+  m_EditorClassIdentifier: 
+  Scenes:
+  - Path: "Assets\x2fScenes\x2fGuiViews\x2fBuySaveMePackView.unity"
+    BuildIndex: 58
+  - Path: "Assets\x2fScenes\x2fGuiViews\x2fCharacterBuy.unity"
+    BuildIndex: 59
+  - Path: "Assets\x2fScenes\x2fGuiViews\x2fCharacterDeal.unity"
+    BuildIndex: 60
+  - Path: "Assets\x2fScenes\x2fGuiViews\x2fCharacterDealMessage.unity"
+    BuildIndex: 61
+  - Path: "Assets\x2fScenes\x2fGuiViews\x2fCharacterFree.unity"
+    BuildIndex: 62
+  - Path: "Assets\x2fScenes\x2fGuiViews\x2fCharacterGet.unity"
+    BuildIndex: 63
+  - Path: "Assets\x2fScenes\x2fGuiViews\x2fCharacterSelect.unity"
+    BuildIndex: 64
+  - Path: "Assets\x2fScenes\x2fGuiViews\x2fComboView.unity"
+    BuildIndex: 65
+  - Path: "Assets\x2fScenes\x2fGuiViews\x2fConfirmExit.unity"
+    BuildIndex: 66
+  - Path: "Assets\x2fScenes\x2fGuiViews\x2fConfirmReset.unity"
+    BuildIndex: 67
+  - Path: "Assets\x2fScenes\x2fGuiViews\x2fCutsceneFrame.unity"
+    BuildIndex: 68
+  - Path: "Assets\x2fScenes\x2fGuiViews\x2fFPSView.unity"
+    BuildIndex: 69
+  - Path: "Assets\x2fScenes\x2fGuiViews\x2fGameCenterDisabled.unity"
+    BuildIndex: 70
+  - Path: "Assets\x2fScenes\x2fGuiViews\x2fInGameMissionCompleteView.unity"
+    BuildIndex: 71
+  - Path: "Assets\x2fScenes\x2fGuiViews\x2fInGameStatsView.unity"
+    BuildIndex: 72
+  - Path: "Assets\x2fScenes\x2fGuiViews\x2fInGameStoreItemView.unity"
+    BuildIndex: 73
+  - Path: "Assets\x2fScenes\x2fGuiViews\x2fItemGet.unity"
+    BuildIndex: 74
+  - Path: "Assets\x2fScenes\x2fGuiViews\x2fItemsView.unity"
+    BuildIndex: 75
+  - Path: "Assets\x2fScenes\x2fGuiViews\x2fLoadingView.unity"
+    BuildIndex: 76
+  - Path: "Assets\x2fScenes\x2fGuiViews\x2fLoseMissionsView.unity"
+    BuildIndex: 77
+  - Path: "Assets\x2fScenes\x2fGuiViews\x2fLoseView.unity"
+    BuildIndex: 78
+  - Path: "Assets\x2fScenes\x2fGuiViews\x2fMissionTextTemplate.unity"
+    BuildIndex: 79
+  - Path: "Assets\x2fScenes\x2fGuiViews\x2fMissionsView.unity"
+    BuildIndex: 80
+  - Path: "Assets\x2fScenes\x2fGuiViews\x2fPauseButtonView.unity"
+    BuildIndex: 81
+  - Path: "Assets\x2fScenes\x2fGuiViews\x2fPauseView.unity"
+    BuildIndex: 82
+  - Path: "Assets\x2fScenes\x2fGuiViews\x2fRateUs.unity"
+    BuildIndex: 83
+  - Path: "Assets\x2fScenes\x2fGuiViews\x2fSaveMeView.unity"
+    BuildIndex: 84
+  - Path: "Assets\x2fScenes\x2fGuiViews\x2fSettingsView.unity"
+    BuildIndex: 85
+  - Path: "Assets\x2fScenes\x2fGuiViews\x2fStartView.unity"
+    BuildIndex: 86
+  - Path: "Assets\x2fScenes\x2fGuiViews\x2fStoreProcessing.unity"
+    BuildIndex: 87
+  - Path: "Assets\x2fScenes\x2fGuiViews\x2fThankYou.unity"
+    BuildIndex: 88
+  - Path: "Assets\x2fScenes\x2fGuiViews\x2fTutorialView.unity"
+    BuildIndex: 89
+  - Path: "Assets\x2fScenes\x2fGuiViews\x2fWheelView.unity"
+    BuildIndex: 90

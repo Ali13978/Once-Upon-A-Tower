@@ -1,0 +1,70 @@
+VisualElement {
+}
+
+.search-button {
+    background-image: url('project://database/Assets/Packages/atomicassetsapiclient/Examples/UiToolkit/Assets/search.png?fileID=2800000&guid=6e71c25b5cd820b45973ef8dba0d6257&type=3#search');
+    width: 26px;
+    height: 26px;
+    margin-left: 3px;
+    margin-right: 3px;
+    margin-top: 1px;
+    margin-bottom: 1px;
+    padding-left: 6px;
+    padding-right: 6px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    background-color: rgb(255, 255, 255);
+}
+
+.search-button:hover {
+    background-color: rgb(234, 146, 62);
+    background-image: url('project://database/Assets/Packages/atomicassetsapiclient/Examples/UiToolkit/Assets/search.png?fileID=2800000&guid=6e71c25b5cd820b45973ef8dba0d6257&type=3#search');
+    -unity-background-image-tint-color: rgb(255, 125, 0);
+}
+
+.select-button {
+    width: auto;
+    height: 45px;
+    border-left-color: rgba(0, 0, 0, 0);
+    border-right-color: rgba(0, 0, 0, 0);
+    border-top-color: rgba(0, 0, 0, 0);
+    border-bottom-color: rgba(0, 0, 0, 0);
+    border-left-width: 2px;
+    border-right-width: 2px;
+    border-top-width: 2px;
+    border-bottom-width: 2px;
+    margin-left: 3px;
+    margin-right: 3px;
+    margin-top: 21px;
+    margin-bottom: 1px;
+    padding-left: 18px;
+    padding-right: 18px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: rgb(36, 54, 137);
+    border-top-left-radius: 12px;
+    border-bottom-left-radius: 12px;
+    border-top-right-radius: 12px;
+    border-bottom-right-radius: 12px;
+    font-size: 18px;
+    -unity-font-style: bold;
+    color: rgb(255, 255, 255);
+}
+
+.select-button:hover {
+    border-left-width: 2px;
+    border-right-width: 2px;
+    border-top-width: 2px;
+    border-bottom-width: 2px;
+    border-left-color: rgb(255, 254, 255);
+    border-right-color: rgb(255, 254, 255);
+    border-top-color: rgb(255, 254, 255);
+    border-bottom-color: rgb(255, 254, 255);
+    width: auto;
+    height: 45px;
+    flex-grow: 0;
+    transition-duration: 0s;
+    transition-timing-function: ease;
+    transition-delay: 0s;
+    color: rgb(255, 255, 255);
+}
