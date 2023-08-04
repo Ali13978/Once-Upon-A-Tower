@@ -452,14 +452,14 @@ namespace Assets.Packages.WcwUnity.Src
         #region Mobile
 #if (UNITY_ANDROID || UNITY_IOS)
 
-    //private UniversalSDK _universalSdk;
+        //private UniversalSDK _universalSdk;
 
-    public void OpenCustomTabView(string url)
+        public void OpenCustomTabView(string url)
     {
         try
         {
                 Debug.Log("Remember this line too before build");
-                //    _universalSdk.OpenCustomTabView(url/*, result =>
+                //_universalSdk.OpenCustomTabView(url/*, result =>
                 //{
                 //    result.Match(
                 //        value =>
@@ -637,25 +637,25 @@ namespace Assets.Packages.WcwUnity.Src
         #region Mobile
 #if UNITY_IOS || UNITY_ANDROID
 
-        public void StartBrowserCommunication(string url)
-        {
-            StartHttpListener();
-            OpenCustomTabView(url);
-        }
+        //public void StartBrowserCommunication(string url)
+        //{
+        //    StartHttpListener();
+        //    OpenCustomTabView(url);
+        //}
 
 #endif
         #endregion
 
-        //#if (UNITY_STANDALONE_WIN || UNITY_EDITOR_WIN) && !UNITY_WEBGL
-        //private void StartBrowserCommunication(string url)
-        //{
-        //    Debug.Log("Before Build remember this line");
-        //    _unityWindow = GetActiveWindow();
+#if (UNITY_STANDALONE_WIN || UNITY_EDITOR_WIN) && !UNITY_WEBGL
+        private void StartBrowserCommunication(string url)
+        {
+            Debug.Log("Before Build remember this line");
+            _unityWindow = GetActiveWindow();
 
-        //    StartHttpListener();
-        //    Application.OpenURL(url);
-        //}
-        //#endif
+            StartHttpListener();
+            Application.OpenURL(url);
+        }
+#endif
 
 #if (UNITY_STANDALONE || UNITY_STANDALONE_LINUX || UNITY_STANDALONE_OSX) && !UNITY_STANDALONE_WIN
     public void StartBrowserCommunication(string url)
